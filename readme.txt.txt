@@ -9,6 +9,7 @@ Updating the readme
 Laaaa laaaa laaaaa, let it goooooo...
 <<<<<<< HEAD
 <<<<<<< .mine
+bike radar
 
 write-host "hello world"
 =======
