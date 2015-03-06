@@ -8,6 +8,7 @@ Updating the readme
 >>>>>>> .theirs
 Laaaa laaaa laaaaa, let it goooooo...
 <<<<<<< .mine
+bike radar
 
 
 =======
