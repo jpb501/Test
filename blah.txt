@@ -1,6 +1,10 @@
 Write-Host "Hello Me"
 Write-Host "Hello you."
+<<<<<<< HEAD
 Butter
+=======
+Great code for getting a hamster going in a ball!
+>>>>>>> b2ecd064e3e458b54c32314e731c3b37ec22a86d
 Oh No
 Oh Yes
 Oh Yes
@@ -9,3 +13,8 @@ Add a line, followed by a commit
 
 
 Add another line, followed by a commit then a push
+<<<<<<< HEAD
+=======
+
+Michael adding more blah
+>>>>>>> b2ecd064e3e458b54c32314e731c3b37ec22a86d
