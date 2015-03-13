@@ -1,6 +1,5 @@
 Write-Host "Hello Me"
-<<<<<<< HEAD
 Write-Host "Hello you."
-=======
 Bugger
->>>>>>> 45270bbcf6154baae955158dc1225d7eead90ac2
+Oh No
+Oh Yes
