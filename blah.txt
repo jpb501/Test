@@ -1,5 +1,8 @@
 Write-Host "Hello Me"
+Write-Host "Hello you."
+Bugger
 Oh No
+Oh Yes
 Oh Yes
 
 Add a line, followed by a commit
